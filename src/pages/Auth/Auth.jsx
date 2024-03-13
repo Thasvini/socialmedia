@@ -8,12 +8,11 @@ const Auth = () => {
       <div className="a-left">
         <img src={Logo} alt="" />
         <div className="Webname">
-          <h1>ZKC Media</h1>
+          <h1>Connect!</h1>
           <h6>Explore the ideas throughout the world</h6>
         </div>
       </div>
-
-      <LogIn/>
+      <SignUp/>
     </div>
   );
 };
